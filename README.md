@@ -16,4 +16,6 @@ For help getting started with Flutter, view our
 samples, guidance on mobile development, and a full API reference.
 
 ## if you need more understand please following the link below
-[Understanding Global State in Flutter Using Redux](https://medium.com/@azamsharp/understanding-global-state-in-flutter-using-redux-2017b7646574),
+[Understanding Global State in Flutter Using Redux](https://medium.com/@azamsharp/understanding-global-state-in-flutter-using-redux-2017b7646574)
+## More knowledge on Redux please following the link below
+[How to manage States in Flutter using Redux](https://medium.com/flutterdevs/how-to-manage-states-in-flutter-using-redux-520b81e1c052)
