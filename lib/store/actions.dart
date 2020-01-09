@@ -1,0 +1,1 @@
+enum Actions { increment, decrement }
